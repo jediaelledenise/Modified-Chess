@@ -9,3 +9,5 @@ to run
 ```
 ./ModifiedChess
 ```
+
+txt files are for scenarios
